@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mittens",
+        "description": "black cat with white paws"
+    },
+    {
+        "name": "Fluffy",
+        "description": "white cat with blue eyes"
+    },
+    {
+        "name": "Whiskers",
+        "description": "gray tabby with gr°een eyes"
+    },
+    {
+        "name": "Shadow",
+        "description": "black cat with yellow eyes"
+    },
+    {
+        "name": "Socks",
+        "description": "white cat with black spots"
+    },
+    {
+        "name": "Simba",
+        "description": "orange tabby with a big personality"
+    },
+    {
+        "name": "Luna",
+        "description": "gray cat with a sweet disposition"
+    },
+    {
+        "name": "Milo",
+        "description": "brown tabby with a playful nature"
+    },
+    {
+        "name": "Bella",
+        "description": "white cat with a gentle demeanor"
+    }
+]
